@@ -11,3 +11,10 @@ pip install pycryptoplus
 ```
 
 
+
+The purpose of the code is to provide secure communication. Can anyone contact me if they can do it with PGP? 
+NOTE: First start the serverv2 code.
+
+
+
+
